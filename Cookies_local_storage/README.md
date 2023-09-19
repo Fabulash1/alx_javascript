@@ -1,0 +1,1 @@
+For cookies and local storage
